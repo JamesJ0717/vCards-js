@@ -1,6 +1,6 @@
 {
   "name": "jamesj_vcards-js",
-  "version": "2.10.0",
+  "version": "2.10.1",
   "description": "Fork of enesser/vCards-js. Create vCards to import contacts into Outlook, iOS, Mac OS, Android devices, and more.",
   "main": "index.js",
   "dependencies": {},
