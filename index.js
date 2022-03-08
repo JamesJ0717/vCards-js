@@ -278,6 +278,8 @@ var vCard = function () {
      */
     workUrl: "",
 
+    calUrl: "",
+
     /**
      * Work mailing address
      * @type {object}
